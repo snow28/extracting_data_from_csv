@@ -1,0 +1,86 @@
+body{
+	height : 100%;
+	background : radial-gradient(circle, #eee, #ccc);
+	background : -webkit-radial-gradient(circle, #eee, #ccc);
+	background : -o-radial-gradient(circle, #eee, #ccc) ; 
+	background : -moz-radial-gradient(circle, #eee, #ccc);
+}
+
+
+
+#about-me{
+	text-align : center;
+	color : blue;
+	margin-top : 50px;
+	font-size : 30px;
+	font-family: 'Lato', sans-serif;
+}
+
+.main{
+	width : 70%;
+	margin-left : 15%;
+	font-family : main ;
+	border : 3px solid gray;
+	border-radius : 10px;
+}
+.date-time{
+	text-align : center;
+	font-size : 30px ;
+}
+
+.menu{
+	font-size : 25px;
+	width : 16%;
+	border-right : 2px solid blue;
+}
+
+.menu ul{
+	list-style-type: none;
+
+}
+.menu a{
+	text-decoration : none;
+}
+
+.php-area{
+	position : relative ;
+	top : -101px;
+	border-radius : 3px;
+	width : 70%;
+	margin-left: 25%;
+	font-size : 22px;
+}
+
+
+.input{
+	border-radius : 3px;
+	height : 20px;
+	font-family : main;
+	font-size : 19px;
+	margin-right : 20px;
+}
+
+.button{
+	font-family : main;
+	display: block;
+	border-radius : 4px;
+	width: 100px;
+	height : 40px;
+	font-size : 25px;
+	margin-left : 290px;
+	margin-top : 10px;
+	background-color : black;
+	color : white;
+}
+
+
+
+
+.footer{
+	text-align : center;
+	font-size : 30px;
+	margin-top : 50px;
+	color : red;
+}
+
+
